@@ -32,7 +32,7 @@ ASUS-ROG-Stirx-S5-GL502V-SK
 | 触摸板    | Elan 1200 I2C HID                       | Asus定制                  |
 | USB控制器 | ASMedia ASM1142 USB 3.1 xHCI Controller | 对应type c接口            |
 
-## 链接
+## 参考链接
 
 > 以下为部分自用链接，有精力会继续更新。
 
@@ -92,4 +92,10 @@ ASUS-ROG-Stirx-S5-GL502V-SK
     - [10.13.6 (17G65) Clover 2.4k r4596](https://imac.hk/macos-high-sierra-10-13-6-17g65.html)
 - 其他教程
   - [黑苹果 MacOS 10.15 Catalina 安装详细教程带工具资料](https://blog.csdn.net/qq_28735663/article/details/99695786)
-  - 
+
+## 特别链接(GitHub repos)
+> (部分)使用到的工具,软件的repo地址
+- [corpnewt](https://github.com/corpnewt)
+  - https://github.com/corpnewt/GenSMBIOS
+  - https://github.com/corpnewt/ProperTree
+  - https://github.com/corpnewt/SSDTTime
