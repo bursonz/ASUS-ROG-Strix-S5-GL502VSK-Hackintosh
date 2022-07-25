@@ -4,6 +4,7 @@
 作者：[Burson](https://faineant.cn/)
 
 ## 说明
+该机型机器已转手，后续不再更新。
 
 EFI的OCplist配置文件名中已详细标记使用情况，将其重命名为`config.plist`即可使用。其中所用到的部分工具放在`tools`中，大部分ACPI、Driver和Kext原包也放在了`lib`中，可以参考包名的版本信息进行更新或者回滚。
 
